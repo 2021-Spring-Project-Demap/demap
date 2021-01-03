@@ -15,5 +15,6 @@
 ## Other Working Enviroment  
   * Eclipes  
   * Postman  
+  * Kakao API  
 ## Release  
   * AWS EC2   
